@@ -2,7 +2,7 @@
 
 namespace HealthCareDemo.Models.DTOs;
 
-public class NewCourse
+public class CreateCourseDTO
 {
     public string Title { get; set; }
     public string Description { get; set; }
